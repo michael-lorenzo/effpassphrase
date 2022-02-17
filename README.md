@@ -21,5 +21,5 @@ Options:
 
 ```console
 $ effpassphrase
-unfounded zips decorator expectant starch variable
+unfounded-zips-decorator-expectant-starch-variable
 ```
